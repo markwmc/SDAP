@@ -1,0 +1,28 @@
+.satellite-content {
+    padding: 16px;
+  }
+  
+  .loading-container,
+  .error-container,
+  .empty-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .satellite-card {
+    margin: 16px auto;
+    border-radius: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .satellite-card ion-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .satellite-card ion-card-content p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
